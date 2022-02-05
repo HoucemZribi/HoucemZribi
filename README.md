@@ -1,5 +1,5 @@
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23278DF7&size=21&multiline=true&lines=Welcome+to+my+profile+!)](https://git.io/typing-svg)👋 <br/>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23278DF7&size=21&multiline=true&lines=Welcome+to+my+profile+%F0%9F%91%8B)](https://git.io/typing-svg)<br/>
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoucemZribi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houcemZribi&layout=compact&show_icons=true&theme=dark&size=21)](https://github.com/anuraghazra/github-readme-stats)
 <!--
