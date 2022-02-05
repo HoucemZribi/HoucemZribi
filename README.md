@@ -1,5 +1,6 @@
- 
+ <div align="center">
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23278DF7&size=21&multiline=true&lines=Welcome+to+my+profile+%F0%9F%91%8B)](https://git.io/typing-svg)<br/>
+ </div>
 <div align="center">
   <a href="https://github.com/emanuellyleoncio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HoucemZribi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
