@@ -1,7 +1,10 @@
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23278DF7&size=21&multiline=true&lines=Welcome+to+my+profile+%F0%9F%91%8B)](https://git.io/typing-svg)<br/>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoucemZribi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houcemZribi&layout=compact&show_icons=true&theme=dark&size=21)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/emanuellyleoncio">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HoucemZribi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoucemZribi&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 <!--
 **HoucemZribi/HoucemZribi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
