@@ -1,6 +1,6 @@
 ### Hi there 👋
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23278DF7&size=21&multiline=true&lines=Welcome+to+my+profile+!)](https://git.io/typing-svg) 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoucemZribi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoucemZribi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **HoucemZribi/HoucemZribi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
